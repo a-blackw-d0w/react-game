@@ -1,4 +1,4 @@
-# Candy Crush in React.js
+# Candy Crush using React.js
 
 # Learning how to code by doing so with projects.
 
